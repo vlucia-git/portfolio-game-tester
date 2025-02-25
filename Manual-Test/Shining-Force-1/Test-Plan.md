@@ -1,3 +1,4 @@
+![Shining Force Logo]([https://link-para-imagem-da-logo.com/logo.png](https://images.launchbox-app.com/d7b4e62c-ca4f-4616-bc1d-d71d1e5936f4.png))
 # 📝 Plano de Teste - Shining Force 1
 
 ## 🎯 Objetivo
