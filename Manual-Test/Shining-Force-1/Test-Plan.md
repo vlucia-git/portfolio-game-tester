@@ -1,64 +1,67 @@
 ![Shining Force Logo](https://images.launchbox-app.com/d7b4e62c-ca4f-4616-bc1d-d71d1e5936f4.png)
-# 📝 Plano de Teste - Shining Force 1
+
+# ⚔️ Plano de Teste - Shining Force 1
 
 ## 🎯 Objetivo
-Testar as funcionalidades principais do jogo **Shining Force 1**, garantindo que mecânicas como movimentação, batalhas e menus funcionam corretamente.
+Garantir que as principais mecânicas de **Shining Force 1** funcionem corretamente, incluindo **movimentação, batalhas e menus**, assegurando uma experiência de jogo fluida e sem falhas.
 
 ## 🖥️ Plataformas Testadas
-- **Emulador Gens**  
+✅ **Emulador Gens**  
 
-## 🔍 Escopo dos Testes
-### **Gameplay**
-- Movimentação no grid  
-- Ataques  
-- IA inimiga  
+## 🔎 Escopo dos Testes  
 
-### **Interface**
-- Funcionamento de menus  
-- Exibição correta de informações  
+### 🎮 **Gameplay**  
+- ✅ Movimentação no grid  
+- ✅ Ataques e cálculos de dano  
+- ✅ Comportamento da IA inimiga  
 
-### **Gráficos e Som**
-- Erros de animação  
-- Problemas sonoros  
+### 🖥️ **Interface**  
+- ✅ Funcionamento correto dos menus  
+- ✅ Exibição precisa de textos, ícones e estatísticas  
 
-### **Performance**
-- Travamentos  
-- Glitches  
-- Quedas de FPS  
+### 🎨 **Gráficos e Som**  
+- ✅ Verificação de sprites e animações corretas  
+- ✅ Identificação de possíveis problemas sonoros  
 
-## 📝 Métodos de Teste
-- **Teste Exploratório:** Jogando e procurando bugs naturalmente.  
-- **Teste Estruturado:** Seguindo casos de teste documentados.  
+### 🚀 **Performance**  
+- ✅ Teste de estabilidade (travamentos ou congelamentos)  
+- ✅ Detecção de glitches gráficos  
+- ✅ Monitoramento de quedas de FPS  
+
+## 🛠️ Métodos de Teste  
+🕵️‍♂️ **Teste Exploratório:** Jogo testado de forma livre para encontrar bugs inesperados.  
+📜 **Teste Estruturado:** Execução de casos de teste detalhados para validar cada mecânica.  
 
 ---
 
-# 🕹️ Test Plan - Shining Force 1
+# 🏹 Test Plan - Shining Force 1
 
 ## 🎯 Objective
-Test the main functionalities of the game **Shining Force 1**, ensuring that mechanics such as movement, battles, and menus are working correctly.
+Ensure that **Shining Force 1** functions properly by testing **movement, battles, and menus**, providing a smooth and bug-free gameplay experience.
 
-## 🖥️ Platforms Tested
-- **Gens Emulator**  
+## 🖥️ Platforms Tested  
+✅ **Gens Emulator**  
 
-## 🔍 Scope of Testing
-### **Gameplay**
-- Grid movement  
-- Attacks  
-- Enemy AI  
+## 🔎 Scope of Testing  
 
-### **Interface**
-- Menu functionality  
-- Correct display of information  
+### 🎮 **Gameplay**  
+- ✅ Grid movement  
+- ✅ Attacks and damage calculation  
+- ✅ Enemy AI behavior  
 
-### **Graphics and Sound**
-- Animation errors  
-- Sound issues  
+### 🖥️ **Interface**  
+- ✅ Menu functionality  
+- ✅ Accurate display of texts, icons, and stats  
 
-### **Performance**
-- Crashes  
-- Glitches  
-- Frame rate drops  
+### 🎨 **Graphics and Sound**  
+- ✅ Verification of correct sprites and animations  
+- ✅ Identification of possible sound issues  
 
-## 📝 Testing Methods
-- **Exploratory Testing:** Playing and finding bugs naturally.  
-- **Structured Testing:** Following documented test cases.  
+### 🚀 **Performance**  
+- ✅ Stability testing (crashes or freezes)  
+- ✅ Detection of graphical glitches  
+- ✅ Monitoring for FPS drops  
+
+## 🛠️ Testing Methods  
+🕵️‍♂️ **Exploratory Testing:** Free play to find unexpected bugs.  
+📜 **Structured Testing:** Execution of detailed test cases to validate each mechanic.  
