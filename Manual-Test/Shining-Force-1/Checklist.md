@@ -1,9 +1,16 @@
-# Checklist de Testes - Shining Force 1
+# ⚔️ Checklist de Testes - Shining Force 1  
 
-- [x] Testar movimentação no grid  
-- [x] Testar ataques em combate  
-- [ ] Testar IA inimiga  
-- [ ] Testar comportamento dos menus  
-- [ ] Testar interações com NPCs  
-- [ ] Testar efeitos sonoros e música  
-- [ ] Testar estabilidade do jogo
+## 🎮 **Gameplay**  
+- [x] Movimentação no grid 🏁  
+- [x] Ataques em combate ⚔️  
+- [ ] Comportamento da IA inimiga 🧠  
+
+## 🖥️ **Interface**  
+- [ ] Funcionamento dos menus 📜  
+- [ ] Interações com NPCs 🗣️  
+
+## 🎵 **Áudio & Visual**  
+- [ ] Efeitos sonoros e música 🎶  
+
+## 🚀 **Performance & Estabilidade**  
+- [ ] Teste de estabilidade (travamentos, glitches, FPS) 🔍  
