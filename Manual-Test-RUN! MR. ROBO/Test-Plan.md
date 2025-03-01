@@ -1,11 +1,11 @@
 # 🎮 Plano de Teste de Jogo
 
 ## 📌 Informações Gerais
-- **Nome do Jogo: RUN! MR. ROBO
+- **Nome do Jogo:** RUN! MR. ROBO
 - **Plataforma:** PC 
-- **Versão Testada: Versão atual disponível no site: https://andre-dantas.itch.io/run-mr-robo 
-- **Data do Teste:*01/03/2025* 
-- **Testador:*Lúcia Lima* 
+- **Versão Testada:** Versão atual disponível no site: https://andre-dantas.itch.io/run-mr-robo 
+- **Data do Teste:** *01/03/2025* 
+- **Testador:** *Lúcia Lima* 
 - **Objetivo do Teste:** Avaliar a qualidade do jogo e sugerir melhorias.
 
 ## 🎯 Escopo do Teste
