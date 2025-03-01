@@ -24,7 +24,7 @@
 | 3   | O áudio funciona corretamente? |✅|  |
 | 4   | O FPS se mantém estável? |✅|  |
 | 5   | Todos os menus são acessíveis? |✅|  |
-| 6   | Há falhas na interface (UI/UX)? |✅| |
+| 6   | Há falhas na interface (UI/UX)? | |❌|
 | 7   | O jogo trava ou fecha inesperadamente? |  |❌|
 
 ---
